@@ -1,4 +1,4 @@
-import lavenderPic from './assets/lavenderpng-removebg-preview.png'
+import lavenderPic from './assets/lav.png'
 
 function Card(){
     return(
