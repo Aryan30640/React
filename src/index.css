@@ -15,8 +15,8 @@ h2{
   box-shadow: 5px 5px 10px hsla(0, 0%, 0%, 0.6);
   padding: 30px;
   margin: 10px;
-  max-width: 400px;
-  max-height: 300px;
+  width: 400px;
+  height: 300px;
   display: inline-block;
   text-align: center;
   user-select: none;
