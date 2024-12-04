@@ -1,6 +1,6 @@
 html, body{
   font-family: 'Segoe UI';
-  background-color: rgb(253, 176, 253);
+  background-color: rgb(122, 158, 235);
   scroll-behavior: smooth;
 }
 h2{
@@ -20,6 +20,7 @@ h2{
   display: inline-block;
   text-align: center;
   user-select: none;
+  box-sizing: content-box;
 }
 .card .lavender-pic{
   max-width: 100px;
